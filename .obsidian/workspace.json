@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "52d77ce632e71a96",
+    "type": "split",
+    "children": [
+      {
+        "id": "6aebd3711167e3bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1fadb8dd5534b55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Localizaciones/Espina SAX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67d86b578ca5ccba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conceptos Generales/Lenguaje.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a00fbd0e5461057",
+    "type": "split",
+    "children": [
+      {
+        "id": "eae0812e975d0883",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcf8a7bdc95c7f0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "08da367795ba0446",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#concepto",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc2865d7bdd11037",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d0331234d9350e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "af204f52722b2d09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1432d25fe538eaf1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Conceptos Generales/Lenguaje.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5401f3f5b3982d1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Conceptos Generales/Lenguaje.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eda6c6b530c1adac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "994f5dcfe91082ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Conceptos Generales/Lenguaje.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "bcf8a7bdc95c7f0d",
+  "lastOpenFiles": [
+    "desktop.ini",
+    "Vientos de Guerra/Aventura/3. Inicio del camino.md",
+    "Conceptos Generales/Lenguaje.md",
+    "Conceptos Generales/El Gremio.md",
+    "Conceptos Generales/Daemyr.md",
+    "Vientos de Guerra/Información Relevante/Materiales Escasos en Tylys.md",
+    "Localizaciones/Bhatsax-4.md",
+    "Vientos de Guerra/Información Relevante/Destierro en Bhatsax.md",
+    "Conceptos Generales/Exo.md",
+    "Conceptos Generales/Élementh.md",
+    "Imagenes/00143-524654009.png",
+    "Imagenes/00142-1076135868.png",
+    "Imagenes/00141-1243462074.png",
+    "Imagenes/00144-666654302.png",
+    "Imagenes/00173-1601344260.png",
+    "Imagenes/00172-1601344259.png",
+    "Imagenes/00171-1601344258.png",
+    "Imagenes/00170-1601344257.png",
+    "Imagenes/00169-1601344256.png",
+    "Imagenes/00168-1601344255.png",
+    "Vientos de Guerra/Aventura/2. El Despertar.md",
+    "NPC/Jilio.md",
+    "Conceptos Generales/La muerte desde el cielo.md",
+    "Facciones/Rush.md",
+    "Conceptos Generales/La gran Guerra y el primer despertar.md",
+    "Vientos de Guerra/Aventura/1. Intro.md",
+    "Vientos de Guerra/Vientos de Guerra (Indice).md",
+    "Vientos de Guerra/Aventura",
+    "PC/Nave de los PC.md",
+    "Conceptos Generales/Los Mahamonths.md",
+    "Conceptos Generales/Biotecnología.md",
+    "Conceptos Generales/EL Gran Flujo.md",
+    "NPC/TAAL.md",
+    "Localizaciones/Espina SAX.md",
+    "Facciones/Elders.md",
+    "Vientos de Guerra/Información Relevante/Condiciones Energeticas Escasas.md",
+    "Vientos de Guerra/Información Relevante/Impuestos en Bhatsax y Energia.md",
+    "Conceptos Generales",
+    "Vientos de Guerra/Documentos",
+    "Vientos de Guerra/Información Relevante",
+    "Imagenes",
+    "Untitled.canvas",
+    "descarga 1.jfif",
+    "justify.css.txt",
+    "descarga.jfif",
+    "PC",
+    "Facciones"
+  ]
+}
