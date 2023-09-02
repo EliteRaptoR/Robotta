@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceptos Generales/Lenguaje.md",
+                "file": "PC/PC1 1 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceptos Generales/Lenguaje.md",
+                "file": "PC/PC1 1 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceptos Generales/Lenguaje.md",
+                "file": "PC/PC1 1 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceptos Generales/Lenguaje.md"
+                "file": "PC/PC1 1 1.md"
               }
             }
           }
@@ -151,26 +151,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "canvas:Create new canvas": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bcf8a7bdc95c7f0d",
+  "active": "67d86b578ca5ccba",
   "lastOpenFiles": [
+    "Conceptos Generales/El Gremio.md",
+    "Conceptos Generales/La gran Guerra y el primer despertar.md",
+    "Conceptos Generales/Los Mahamonths.md",
+    "Conceptos Generales/Élementh.md",
+    "Conceptos Generales/Biotecnología.md",
+    "Conceptos Generales/Lenguaje.md",
+    "Conceptos Generales/EL Gran Flujo.md",
+    "PC/PC1 1 1.md",
+    "PC/PC1 1.md",
+    "PC/PC1 1 1 1.md",
+    "PC/PC1.md",
+    "Conceptos Generales/Daemyr.md",
+    "Localizaciones/Espina SAX.md",
     "desktop.ini",
     "Vientos de Guerra/Aventura/3. Inicio del camino.md",
-    "Conceptos Generales/Lenguaje.md",
-    "Conceptos Generales/El Gremio.md",
-    "Conceptos Generales/Daemyr.md",
     "Vientos de Guerra/Información Relevante/Materiales Escasos en Tylys.md",
     "Localizaciones/Bhatsax-4.md",
     "Vientos de Guerra/Información Relevante/Destierro en Bhatsax.md",
     "Conceptos Generales/Exo.md",
-    "Conceptos Generales/Élementh.md",
     "Imagenes/00143-524654009.png",
     "Imagenes/00142-1076135868.png",
     "Imagenes/00141-1243462074.png",
@@ -185,19 +194,11 @@
     "NPC/Jilio.md",
     "Conceptos Generales/La muerte desde el cielo.md",
     "Facciones/Rush.md",
-    "Conceptos Generales/La gran Guerra y el primer despertar.md",
     "Vientos de Guerra/Aventura/1. Intro.md",
     "Vientos de Guerra/Vientos de Guerra (Indice).md",
     "Vientos de Guerra/Aventura",
     "PC/Nave de los PC.md",
-    "Conceptos Generales/Los Mahamonths.md",
-    "Conceptos Generales/Biotecnología.md",
-    "Conceptos Generales/EL Gran Flujo.md",
     "NPC/TAAL.md",
-    "Localizaciones/Espina SAX.md",
-    "Facciones/Elders.md",
-    "Vientos de Guerra/Información Relevante/Condiciones Energeticas Escasas.md",
-    "Vientos de Guerra/Información Relevante/Impuestos en Bhatsax y Energia.md",
     "Conceptos Generales",
     "Vientos de Guerra/Documentos",
     "Vientos de Guerra/Información Relevante",
@@ -206,7 +207,6 @@
     "descarga 1.jfif",
     "justify.css.txt",
     "descarga.jfif",
-    "PC",
-    "Facciones"
+    "PC"
   ]
 }
