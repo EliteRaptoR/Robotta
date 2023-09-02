@@ -1,0 +1,3 @@
+#concepto 
+Tras la Gran Guerra Robotta y el posterior Primer Despertar, la sociedad robotta inició un periodo de paz, lejos de conflictos, antagonismos y banderas. Las consciencias de los principales artífices de esta gran guerra se lanzaron al [[EL Gran Flujo]] y, por el devenir del destino, muchas de ellas quedaron encerradas en los [[Los Mahamonths]]. Otras se perdieron para siempre, y algunas despertarán tras siglos de letargo. Con el Primer Despertar, la paz reinó en el mundo y las diferentes naciones robotta empezaron de nuevo. Pero solo era cuestión de tiempo que la rueda
+volviera a girar, y que algunos de esos artífices, que perecieron hace más de 350 años, despertaran en algún cuerpo robotta y recordaran quiénes son y por qué lucharon.
