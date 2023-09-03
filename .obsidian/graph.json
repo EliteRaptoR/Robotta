@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 7287664
       }
+    },
+    {
+      "query": "tag:#PC  ",
+      "color": {
+        "a": 1,
+        "rgb": 305423
+      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6346285676930605,
+  "scale": 0.6346285676930625,
   "close": false
 }

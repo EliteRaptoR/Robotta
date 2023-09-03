@@ -1,0 +1,19 @@
+#concepto
+La naturaleza es extraña, el universo salvaje y el mundo cuántico, insondable. Los tecnomantes son robotta que han dado un paso más allá en su exploración de la realidad cuántica. Su mente, su Dáemyr, se ha sumergido en la incertidumbre cósmica, donde los misterios de las ecuaciones esenciales del universo danzan entrelazados con melodías incomprensibles para el resto de robotta.
+
+No despertaron siendo así, ni fueron diseñados con este propósito, pero su vida anterior ha sido cegada por la iluminación de la realidad cuántica y ya no les importa nada más. No es que no lo recuerden, es que ya no importa. 
+
+No son iluminados que agachan la cabeza ante divinidades abstractas ni los poseedores de un secreto que deba ser predicado. No, son testigos del exotismo cósmico, de lo inaudito de la composición de la materia misma, de las caóticas e informes reglas que subyacen tras todas las leyes de la física. Y como los demás robotta, solo sobreviven. 
+
+Los tecnomantes tienen un tamaño entre común (1,7 a 2 m) y grande (2 a 3,5 m), y tienen apariencia élder. Un tecnomante no puede buscar propósitos menores en la vida. Su Objetivo a largo plazo debe ser muy ambicioso… y tiene que estar relacionado con los humanos. Porque sí, los tecnomantes lo saben, cada uno a su manera y sin compartir sus secretos: todo tiene que ver con los humanos. 
+
+Su personalidad es difícil de entender para el resto de la sociedad, incluso para los de su propia tripulación. Un tecnomante forma parte del grupo, pero a la vez va a lo suyo; busca objetivos comunes, pero siempre tiene cosas personales que hacer. Puede ser introvertido y a la vez un excéntrico bromista, un caótico demente que disfruta de su locura o un amante contemplador de la lluvia. Lo cierto es que su conducta externa poco importa, está regida por la incertidumbre. Su verdadera forma de ser, oculta a todo el mundo, es una constante observación: una mirada curiosa que explora la realidad como un niño con la potencia de cálculo de un dios. 
+
+Gracias a esa contemplación y a zambullirse en la sopa cuántica que forma el multiverso, los tecnomantes han desarrollado matemáticas complejas con las que pueden manipular y flexibilizar las leyes de la realidad. Traslados cuánticos, apariciones súbitas de objetos, una inclinación de los acontecimientos a favor del tecnomante… Sus habilidades son abstractas y confusas de entender para el resto de robotta, que suelen definirlos como «charlatanes con suerte» o «brujos», aunque ellos las conocen como la [[Singularidad]]. 
+
+El jugador puede interpretar que la Singularidad tiene una fuerte presencia en su vida, como si fuera una «corriente» que lo impregna todo o el «destino» que mueve tanto a los planetas y las estrellas como a los pensamientos y las emociones. Todo tecnomante tiene un discurso discreto sobre la Singularidad, similar al Tao o a «la Fuerza». Cada tecnomante tiene su propio discurso, no hay organización ni credo entre ellos, por ello vive y experimenta la Singularidad de un modo distinto. 
+
+EN LA SOCIEDAD 
+Algunos dicen que sus habilidades son un error de su Dáemyr causado por una batalla interna contra Élementh, que están infectados, y por eso los repudian. Otros los acusan de ser un fallo derivado del intento de dos Dáemyr de ocupar un único cuerpo, de ser como un aborto del Gran Flujo que ha descargado sobre ellos su caos irresoluble. No saben nada… Solo rechazan lo indomesticable por temor. 
+
+Los grupos religiosos del mundo los desprecian en la misma medida que los temen, y no es raro que fanáticos religiosos intenten matarlos si ven una oportunidad segura para ello. Tampoco es de extrañar que una ciudad libre cierre sus puertas a tecnomantes, ya que cada vez hay más leyendas de todo tipo sobre ellos. Algunas descabelladas… Otras se quedan cortas.
