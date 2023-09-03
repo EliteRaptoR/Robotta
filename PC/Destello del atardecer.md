@@ -4,7 +4,7 @@ Personaje de Oscar
 
 Efectos de estado: Nada
 
-Diseño. 
+Diseño: 
 Rasgos de caracter:
 
 Profesiones:
