@@ -4,30 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ae26f568362a2a02",
+        "id": "d7071366316dd7f1",
         "type": "tabs",
         "children": [
           {
-            "id": "eabe1d7140fac509",
+            "id": "3fc8923836f0e84a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5efffdee839f43c1",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "NPC/Jilio.md",
-                "staged": false
+                "file": "Vientos de Guerra/Guion/3. Inicio del camino.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vientos de Guerra/Guion/3. Inicio del camino.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vientos de Guerra/Guion/3. Inicio del camino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vientos de Guerra/Guion/3. Inicio del camino.md"
+              }
             }
           },
           {
@@ -138,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Vientos de Guerra/Guion/3. Inicio del camino.md"
+              }
             }
           },
           {
@@ -166,35 +164,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5efffdee839f43c1",
+  "active": "3fc8923836f0e84a",
   "lastOpenFiles": [
-    "PC/Destello del atardecer2.md",
-    "PC/Destello del atardecer.md",
-    "PC/Speedy.md",
-    "conflict-files-obsidian-git.md",
-    "Sesiones/Sesión 1.md",
-    "Sesiones",
-    "Normas/Tiradas.md",
-    "NPC/Ur_Clasificado.md",
-    "Untitled.md",
-    "Normas/Mecanicas de personalidad.md",
-    "Normas/Sacrificio Heroico.md",
-    "Normas/Caracteristicas.md",
-    "Facciones/Rush.md",
-    "Vientos de Guerra/Vientos de Guerra (Indice).md",
-    "Vientos de Guerra/Diario/1. El despertar en el bosque.md",
-    "Vientos de Guerra/Diario/2. La llegada a Bhatsax-4.md",
-    "NPC/Zoh.md",
-    "NPC/Yu_Clasificado.md",
-    "NPC/Jilio.md",
-    "NPC/TAAL.md",
+    "Conceptos Generales/Tael.md",
+    "Vientos de Guerra/Guion/3. Inicio del camino.md",
+    "Conceptos Generales/Sueño negro.md",
+    "NPC/Zeke.md",
     "NPC/Hyjer_Clasificado.md",
-    "NPC/TAAL_Clasificado.md",
-    "NPC/Jilio_Clasificado.md",
+    "Vientos de Guerra/Información Relevante/Destierro en Bhatsax.md",
+    "Vientos de Guerra/Información Relevante/Impuestos en Bhatsax y Energia.md",
+    "Vientos de Guerra/Información Relevante/Condiciones Energeticas Escasas.md",
+    "Localizaciones/El Salar de Tylys.md",
+    "Vientos de Guerra/Guion/2. El Despertar.md",
+    "Vientos de Guerra/NotasJugadores/Notas de Oscar.md",
+    "Vientos de Guerra/NotasJugadores/Notas de Josep.md",
+    "Conceptos Generales/Élementh.md",
+    "Conceptos Generales/Biotecnología.md",
+    "Conceptos Generales/Los Mahamonths.md",
+    "Conceptos Generales/La muerte desde el cielo.md",
+    "Conceptos Generales/La gran Guerra y el primer despertar.md",
+    "Conceptos Generales/Exo.md",
     "Conceptos Generales/Lenguaje.md",
     "Conceptos Generales/El Gremio.md",
-    "PC/Zafiro.md",
-    "Conceptos Generales/Diseños/Oxnia.md",
+    "Conceptos Generales/Daemyr.md",
+    "Conceptos Generales/EL Gran Flujo.md",
+    "Conceptos Generales/Historia Celebre.md",
+    "Vientos de Guerra/NotasJugadores/Notas de Fabiola.md",
+    "Vientos de Guerra/NotasJugadores/Notas de Aracely.md",
+    "NPC/Jilio.md",
+    "Vientos de Guerra/NotasJugadores",
+    "Sesiones",
     "Imagenes/Estructura.png",
     "Imagenes/Robotillo.png",
     "Imagenes/Robot Burbuja.png",
@@ -213,7 +212,6 @@
     "Vientos de Guerra/Guion",
     "Conceptos Generales",
     "Vientos de Guerra/Documentos",
-    "Vientos de Guerra/Información Relevante",
     "Untitled.canvas"
   ]
 }
