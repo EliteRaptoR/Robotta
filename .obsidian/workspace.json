@@ -11,11 +11,10 @@
             "id": "3fc8923836f0e84a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Facciones/Élders.md",
-                "mode": "source",
-                "source": false
+                "file": "Conceptos Generales/EL Gran Flujo.md",
+                "staged": false
               }
             }
           }
@@ -65,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Facciones/Élders.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Facciones/Élders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Facciones/Élders.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Facciones/Élders.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,32 +159,32 @@
   },
   "active": "3fc8923836f0e84a",
   "lastOpenFiles": [
-    "Conceptos Generales/Diseños/Tecnomante.md",
-    "Conceptos Generales/ELder.md",
-    "Vientos de Guerra/Flashbacks/A. El rescate de Speedy.md",
-    "Vientos de Guerra/Diario/1. El despertar en el bosque.md",
-    "Vientos de Guerra/Diario/2. La llegada a Bhatsax-4.md",
-    "Vientos de Guerra/Guion/3. Inicio del camino.md",
-    "Conceptos Generales/Tael.md",
-    "Conceptos Generales/Sueño negro.md",
-    "NPC/Zeke.md",
-    "NPC/Hyjer_Clasificado.md",
-    "Vientos de Guerra/Información Relevante/Destierro en Bhatsax.md",
-    "Vientos de Guerra/Información Relevante/Impuestos en Bhatsax y Energia.md",
-    "Vientos de Guerra/Información Relevante/Condiciones Energeticas Escasas.md",
-    "Localizaciones/El Salar de Tylys.md",
-    "Vientos de Guerra/Guion/2. El Despertar.md",
-    "Vientos de Guerra/NotasJugadores/Notas de Oscar.md",
-    "Vientos de Guerra/NotasJugadores/Notas de Josep.md",
-    "Conceptos Generales/Élementh.md",
-    "Conceptos Generales/Biotecnología.md",
-    "Conceptos Generales/Los Mahamonths.md",
-    "Conceptos Generales/La muerte desde el cielo.md",
+    "Vientos de Guerra/Guion/5. Encontrar a TR-TR.md",
+    "Vientos de Guerra/Guion/6. Trabajito de Jilio.md",
+    "Vientos de Guerra/Guion/4. Audiencia con TAAL.md",
+    "Vientos de Guerra/Guion/La visita al rastrillo.md",
+    "Localizaciones/La Colmena.md",
+    "NPC/TR-TR.md",
     "Conceptos Generales/La gran Guerra y el primer despertar.md",
-    "Conceptos Generales/Exo.md",
-    "Conceptos Generales/Lenguaje.md",
-    "Conceptos Generales/El Gremio.md",
-    "Conceptos Generales/Daemyr.md",
+    "Vientos de Guerra/Guion/3. Inicio del camino.md",
+    "Vientos de Guerra/Guion/X. La traición de TAAL.md",
+    "NPC/Hyjer.md",
+    "NPC/Hyjer_Clasificado.md",
+    "NPC/TAAL_Clasificado.md",
+    "NPC/TAAL.md",
+    "Vientos de Guerra/Información Relevante/Condiciones Energeticas Escasas.md",
+    "Localizaciones/Espina SAX.md",
+    "Vientos de Guerra/Información Relevante/Impuestos en Bhatsax y Energia.md",
+    "PC/Nave de los PC.md",
+    "NPC/Ur.md",
+    "NPC/Zeke.md",
+    "Normas/Combate de escaramuza.md",
+    "Vientos de Guerra/Diario/2. La llegada a Bhatsax-4.md",
+    "Vientos de Guerra/Diario/1. El despertar en el bosque.md",
+    "Vientos de Guerra/Flashbacks/A. El rescate de Speedy.md",
+    "Conceptos Generales/Diseños/Tecnomante.md",
+    "Facciones/Élders.md",
+    "Conceptos Generales/ELder.md",
     "Vientos de Guerra/NotasJugadores",
     "Sesiones",
     "Imagenes/Estructura.png",
