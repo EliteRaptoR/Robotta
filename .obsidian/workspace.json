@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vientos de Guerra/Guion/3. Inicio del camino.md",
+                "file": "Facciones/Élders.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#concepto",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vientos de Guerra/Guion/3. Inicio del camino.md",
+                "file": "Facciones/Élders.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vientos de Guerra/Guion/3. Inicio del camino.md",
+                "file": "Facciones/Élders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vientos de Guerra/Guion/3. Inicio del camino.md"
+                "file": "Facciones/Élders.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Vientos de Guerra/Guion/3. Inicio del camino.md"
+                "file": "Facciones/Élders.md"
               }
             }
           },
@@ -166,8 +167,13 @@
   },
   "active": "3fc8923836f0e84a",
   "lastOpenFiles": [
-    "Conceptos Generales/Tael.md",
+    "Conceptos Generales/Diseños/Tecnomante.md",
+    "Conceptos Generales/ELder.md",
+    "Vientos de Guerra/Flashbacks/A. El rescate de Speedy.md",
+    "Vientos de Guerra/Diario/1. El despertar en el bosque.md",
+    "Vientos de Guerra/Diario/2. La llegada a Bhatsax-4.md",
     "Vientos de Guerra/Guion/3. Inicio del camino.md",
+    "Conceptos Generales/Tael.md",
     "Conceptos Generales/Sueño negro.md",
     "NPC/Zeke.md",
     "NPC/Hyjer_Clasificado.md",
@@ -187,11 +193,6 @@
     "Conceptos Generales/Lenguaje.md",
     "Conceptos Generales/El Gremio.md",
     "Conceptos Generales/Daemyr.md",
-    "Conceptos Generales/EL Gran Flujo.md",
-    "Conceptos Generales/Historia Celebre.md",
-    "Vientos de Guerra/NotasJugadores/Notas de Fabiola.md",
-    "Vientos de Guerra/NotasJugadores/Notas de Aracely.md",
-    "NPC/Jilio.md",
     "Vientos de Guerra/NotasJugadores",
     "Sesiones",
     "Imagenes/Estructura.png",
