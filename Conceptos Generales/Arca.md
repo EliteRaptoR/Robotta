@@ -1,0 +1,2 @@
+#concepto 
+![[Arca Piramide.png]]
