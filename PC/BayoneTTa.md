@@ -2,10 +2,10 @@
 
 Personaje de Fabiola
 Efectos de estado: Nada
-Diseño. [[Tecnomante]]
+Diseño: [[Tecnomante]]
 
 Lazos con compañeros:
-- Despertó a [[Destello del atardecer2]] en una macrofactoria. [[B. Despertar de Destello]]
+- Despertó a [[Destello del atardecer]] en una macrofactoria. [[B. Despertar de Destello]]
 
 Info relevante:
 - Tiene 3 ojos. 
