@@ -7,6 +7,7 @@ Diseño: [[Soldado]]
 Lazos con compañeros:
 - Fue despertado por [[BayoneTTa]] en una macro factoría. [[B. Despertar de Destello del atardecer]]
 
+
 Info relevante:
 - Armadura brillante, chasis al estilo Gundam
 - Cuchillo de combate en la pierna
@@ -40,18 +41,21 @@ Objetivo a largo plazo:
 Prestigio: 0
 Objetos clave:
 
-SVM: 30 + Fortaleza + Firewill 
-SV:
-CEM: 60
-CE: 10
-Calculo: 
-Destreza: 
-Fortaleza: 
-Carisma: 
-Firewill: 
-AA: 
-AD: 
-DEF: 
-EXO: 
-Maniobra: 
+| Cabecera 1 | Cabecera 2 |
+| ---|---|
+|SVM |30 + Fortaleza + Firewill |
+|SV| |
+|CEM| 60|
+|CE | 20|
+|Calculo| |
+|Destreza||
+|Fortaleza|| 
+|Carisma||
+|Firewill|| 
+|AA||
+|AD||
+|DEF|| 
+|EXO||
+|Maniobra|| 
+
 

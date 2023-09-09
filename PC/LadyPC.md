@@ -5,7 +5,7 @@ Efectos de estado: Nada
 Diseño:
 
 Lazos con compañeros:
-- 
+
 
 Info relevante:
 - 
@@ -40,18 +40,21 @@ Objetivo a largo plazo:
 Prestigio: 0
 Objetos clave:
 
-SVM: 30 + Fortaleza + Firewill 
-SV:
-CEM: 60
-CE: 10
-Calculo: 
-Destreza: 
-Fortaleza: 
-Carisma: 
-Firewill: 
-AA: 
-AD: 
-DEF: 
-EXO: 
-Maniobra: 
+| Cabecera 1 | Cabecera 2 |
+| ---|---|
+|SVM |30 + Fortaleza + Firewill |
+|SV| |
+|CEM| 60|
+|CE | 20|
+|Calculo| |
+|Destreza||
+|Fortaleza|| 
+|Carisma||
+|Firewill|| 
+|AA||
+|AD||
+|DEF|| 
+|EXO||
+|Maniobra|| 
+
 

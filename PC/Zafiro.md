@@ -6,6 +6,7 @@ Diseño: [[Big Mama]]
 
 Lazos con compañeros:
 - Salvo a [[Speedy]] cuando estaba siendo perseguido por racistas. Se expuso a que la atrapasen a ella y a perder a su robot araña. [[A. El rescate de Speedy]]
+- 
 
 Info relevante:
 - XXX: Dron volador de observación. Percibe visión y olfato. Tiene forma de sombrero chino que se abre y se cierra.
@@ -41,17 +42,19 @@ Objetivo a largo plazo:
 Prestigio: 0
 Objetos clave:
 
-SVM: 30 + Fortaleza + Firewill 
-SV:
-CEM: 100
-CE: 20
-Calculo: 
-Destreza: 
-Fortaleza: 
-Carisma: 
-Firewill: 
-AA: 
-AD: 
-DEF: 
-EXO: 
-Maniobra: 
+| Cabecera 1 | Cabecera 2 |
+| ---|---|
+|SVM |30 + Fortaleza + Firewill |
+|SV| |
+|CEM| 100|
+|CE | 20|
+|Calculo| |
+|Destreza||
+|Fortaleza|| 
+|Carisma||
+|Firewill|| 
+|AA||
+|AD||
+|DEF|| 
+|EXO||
+|Maniobra|| 

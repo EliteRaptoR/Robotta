@@ -7,6 +7,7 @@ Diseño: [[Tecnomante]]
 Lazos con compañeros:
 - Despertó a [[Destello del atardecer]] en una macrofactoria. [[B. Despertar de Destello del atardecer]]
 
+
 Info relevante:
 - Tiene 3 ojos. 
 - Mano articulada, 5 dedos.
@@ -49,20 +50,23 @@ Objetivo a largo plazo:
 Prestigio: 0
 Objetos clave:
 
-SVM: 30 + Fortaleza + Firewill 
-SV:
-CEM: 50
-CE: 10
-Calculo: 
-Destreza: 
-Fortaleza: 
-Carisma: 
-Firewill: 
-AA: 
-AD: 
-DEF: 
-EXO: 
-Maniobra: 
+| Cabecera 1 | Cabecera 2 |
+| ---|---|
+|SVM |30 + Fortaleza + Firewill |
+|SV| |
+|CEM| 50|
+|CE | 10|
+|Calculo| |
+|Destreza||
+|Fortaleza|| 
+|Carisma||
+|Firewill|| 
+|AA||
+|AD||
+|DEF|| 
+|EXO||
+|Maniobra|| 
+
 
 
 
