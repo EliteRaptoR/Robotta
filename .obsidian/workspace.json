@@ -11,11 +11,10 @@
             "id": "eedc2c01108e6ee8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "PC/BayoneTTa.md",
-                "mode": "source",
-                "source": false
+                "file": "NPC/Jilio.md",
+                "staged": false
               }
             }
           }
@@ -116,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC/BayoneTTa.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PC/BayoneTTa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PC/BayoneTTa.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "PC/BayoneTTa.md"
-              }
+              "state": {}
             }
           },
           {
