@@ -1,4 +1,4 @@
 #concepto 
 
 
-![[Hongos.png]]
+![[Hongos 1.png]]

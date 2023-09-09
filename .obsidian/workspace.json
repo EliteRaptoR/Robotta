@@ -11,14 +11,39 @@
             "id": "3fc8923836f0e84a",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vientos de Guerra/Localizaciones/La Colmena.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3ec8d2c80076f34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vientos de Guerra/Localizaciones/Espina SAX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eedc2c01108e6ee8",
+            "type": "leaf",
+            "state": {
               "type": "diff-view",
               "state": {
-                "file": "Facciones/Élders.md",
+                "file": "Facciones/Warkan.md",
                 "staged": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,54 +182,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3fc8923836f0e84a",
+  "active": "eedc2c01108e6ee8",
   "lastOpenFiles": [
+    "PC/BayoneTTa.md",
+    "Vientos de Guerra/Guion/6. Trabajito de Jilio.md",
+    "Vientos de Guerra/Guion/7. La traición de TAAL.md",
+    "Vientos de Guerra/Guion/8. El encuentro con los Simbiontes.md",
+    "Vientos de Guerra/Localizaciones/Salar de Tylys.md",
+    "Vientos de Guerra/Localizaciones/Anillo fúngico.md",
+    "NPC/JILlo.md",
+    "NPC/JILlo_Clasificado.md",
+    "Vientos de Guerra/Localizaciones/La Colmena.md",
+    "Vientos de Guerra/Facciones/Simbiontes.md",
+    "JILlo.md",
+    "Vientos de Guerra/Guion/5. Encontrar a TR-TR.md",
+    "NPC/TR-TR.md",
+    "Vientos de Guerra/Guion/4. Audiencia con TAAL.md",
+    "Vientos de Guerra/Guion/3. Inicio del camino.md",
+    "Vientos de Guerra/Localizaciones/El gran Bazar.md",
+    "Vientos de Guerra/Localizaciones/Espina SAX.md",
+    "Vientos de Guerra/Localizaciones/Palacio de TAAL.md",
+    "Vientos de Guerra/NotasJugadores/Notas de Fabiola.md",
+    "Vientos de Guerra/NotasJugadores/Notas Lady.md",
+    "Vientos de Guerra/Facciones/Arcontes de Tylys.md",
+    "Vientos de Guerra/Facciones",
+    "Vientos de Guerra/Documentos/Hongos.jpg",
+    "Vientos de Guerra/Localizaciones",
+    "Vientos de Guerra/Diario/1. El despertar en el bosque.md",
+    "Imagenes/Hongos.png",
+    "Imagenes/Hongos 1.png",
+    "Imagenes/Ciudad Elder.png",
+    "Vientos de Guerra/Guion/La visita al rastrillo.md",
     "PC/Destello del atardecer.md",
     "Facciones/Warkan.md",
     "Facciones/Élders.md",
-    "Conceptos Generales/Bosques de hongos.md",
-    "Imagenes/Ciudad Elder.png",
-    "Hongos.png",
-    "Conceptos Generales/Arca.md",
-    "Imagenes/Hongos.png",
     "Imagenes/Arca Piramide.png",
     "Imagenes/xeno1.png",
     "Imagenes/xeno2.png",
-    "PC/Speedy.md",
-    "Normas/Mecanicas de personalidad.md",
-    "Normas/Tiradas.md",
-    "PC/Nave de los PC.md",
-    "PC/Zafiro.md",
-    "PC/BayoneTTa.md",
-    "PC/LadyPC.md",
-    "Vientos de Guerra/Diario/2. La llegada a Bhatsax-4.md",
-    "Vientos de Guerra/Guion/5. Encontrar a TR-TR.md",
-    "Vientos de Guerra/Guion/4. Audiencia con TAAL.md",
-    "Vientos de Guerra/Guion/6. Trabajito de Jilio.md",
-    "Vientos de Guerra/Guion/La visita al rastrillo.md",
-    "Localizaciones/La Colmena.md",
-    "NPC/TR-TR.md",
-    "Conceptos Generales/La gran Guerra y el primer despertar.md",
-    "Vientos de Guerra/Guion/3. Inicio del camino.md",
-    "Vientos de Guerra/Guion/X. La traición de TAAL.md",
-    "NPC/Hyjer.md",
-    "NPC/Hyjer_Clasificado.md",
-    "NPC/TAAL_Clasificado.md",
-    "NPC/TAAL.md",
     "Vientos de Guerra/NotasJugadores",
     "Sesiones",
     "Imagenes/Estructura.png",
     "Imagenes/Robotillo.png",
     "Imagenes/Robot Burbuja.png",
-    "Imagenes/CuboEnergia.png",
     "Vientos de Guerra/Flashbacks",
     "Vientos de Guerra/Diario",
     "Conceptos Generales/Diseños",
     "Normas",
     "desktop.ini",
     "Vientos de Guerra/Guion",
-    "Conceptos Generales",
-    "Vientos de Guerra/Documentos",
     "Untitled.canvas"
   ]
 }
