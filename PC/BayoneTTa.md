@@ -20,17 +20,23 @@ Info relevante:
 - Cuando medita, parece un bicho palo. 
 - Le gusta adornar los momentos importantes con música humana que ha encontrado durante sus estudios. Cuando suena, no puede evitar mover su cuerpo al son de la música.
 
-Rasgos de carácter:
--  
-- Curioso
-- Sacrificado
 
-Profesiones:
-- 3 Hacker
-- 2 Lingüista
-- 2 Piloto
-- 1 
-- 2 Explorador
+
+| | Rasgo| 
+| ---| ---|
+| D |  |
+| M | Curioso |
+| M | Sacrificado |
+| I | |
+
+
+| | Profesión | Modificador | 
+| ---|---| ---|
+|D|Hacker |3|
+|D|Lingüista |2|
+|M||2|
+|M| |1|
+|R| Explorador |2|
 
 Lema:
 Mi familia, mi humanidad.
@@ -50,7 +56,7 @@ Objetivo a largo plazo:
 Prestigio: 0
 Objetos clave:
 
-| Cabecera 1 | Cabecera 2 |
+| Estadistica | Valor |
 | ---|---|
 |SVM |30 + Fortaleza + Firewill |
 |SV| |

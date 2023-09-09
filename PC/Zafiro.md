@@ -13,18 +13,21 @@ Info relevante:
 - XXX: Robot araña que se puede desplazar a gran velocidad adquiriendo una forma esférica. Tiene un soplete de soldadura que permite abrir agujeros metales con facilidad.
 - Exo lanza-cohetes en el nombro.
 
-Rasgos de carácter:
-- 
-- Pragmático
-- Cauto
-- 
+| | Rasgo| 
+| ---| ---|
+| D | |
+| M | Pragmático |
+| M | Cauto |
+| I | |
 
-Profesiones:
-- 3 Mecánico
-- 2 Abogado
-- 2
-- 1
-- 2 Medico
+
+| | Profesión | Modificador | 
+| ---|---| ---|
+|D|Mecánico |3|
+|D|Abogado |2|
+|M||2|
+|M| |1|
+|R|Médico |2|
 
 Lema:
 "Sin justicia solo hay opresores"
@@ -42,7 +45,7 @@ Objetivo a largo plazo:
 Prestigio: 0
 Objetos clave:
 
-| Cabecera 1 | Cabecera 2 |
+| Estadistica | Valor |
 | ---|---|
 |SVM |30 + Fortaleza + Firewill |
 |SV| |

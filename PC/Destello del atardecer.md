@@ -13,17 +13,21 @@ Info relevante:
 - Cuchillo de combate en la pierna
 - Rail Gauss, Fusil cinético
 
-Rasgos de carácter:
-- Sacrificado
-- Solemne
-- Precavido
+| | Rasgo| 
+| ---| ---|
+| D | Sacrificado |
+| M | Solemne |
+| M | Precavido |
+| I | |
 
-Profesiones:
-- 3 Tirador
-- 2 Herrero
-- 2 
-- 1 
-- 3 Militar
+
+| | Profesión | Modificador | 
+| ---|---| ---|
+|D|Tirador |3|
+|D|Herrero |2|
+|M||2|
+|M| |1|
+|R|Militar |3|
 
 Lema:
 "Hasta el atardecer con mis compañeros"
@@ -41,7 +45,7 @@ Objetivo a largo plazo:
 Prestigio: 0
 Objetos clave:
 
-| Cabecera 1 | Cabecera 2 |
+| Estadistica | Valor |
 | ---|---|
 |SVM |30 + Fortaleza + Firewill |
 |SV| |

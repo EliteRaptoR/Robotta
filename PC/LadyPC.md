@@ -10,17 +10,23 @@ Lazos con compañeros:
 Info relevante:
 - 
 
-Rasgos de carácter:
--  
-- 
-- 
 
-Profesiones:
-- 3 
-- 2 
-- 2 
-- 1 
-- 
+| | Rasgo| 
+| ---| ---|
+| D |  |
+| M |  |
+| M |  |
+| I | |
+
+
+| | Profesión | Modificador | 
+| ---|---| ---|
+|D| |3|
+|D| |2|
+|M||2|
+|M| |1|
+|R| Militar|3|
+
 
 Lema:
 
@@ -40,7 +46,7 @@ Objetivo a largo plazo:
 Prestigio: 0
 Objetos clave:
 
-| Cabecera 1 | Cabecera 2 |
+| Estadistica | Valor |
 | ---|---|
 |SVM |30 + Fortaleza + Firewill |
 |SV| |

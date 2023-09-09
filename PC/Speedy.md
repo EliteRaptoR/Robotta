@@ -1,5 +1,8 @@
 #PC 
 
+***Los rasgos de caracter estan mal colocados en la hoja***
+
+
 Personaje de Josep
 Efectos de estado: Nada
 Diseño: [[Oxnia]]
@@ -14,17 +17,23 @@ Info relevante:
 - Conoció a Zafiro mientras la perseguían para matarla en una ciudad. Agradecido con ella, Tienen una promesa del meñique de protección. 
 - Espada que esta gastada pero que provoca daño eléctrico. Ahora no tiene batería y no funciona.
 
-Rasgos de carácter:
-- 
-- Optimista (esta mal colocado en la hoja)
-- Seguro (esta mal colocado en la hoja)
 
-Profesiones:
-- 3 Contrabandista 
-- 2 Esclavo
-- 2 
-- 1 
-- 2 Superviviente
+| | Rasgo| 
+| ---| ---|
+| D |  |
+| M | Optimista |
+| M | Seguro |
+| I | |
+
+
+| | Profesión | Modificador | 
+| ---|---| ---|
+|D|Contrabandista |3|
+|D|Esclavo |2|
+|M||2|
+|M| |1|
+|R| Superviviente |2|
+
 
 Lema:
 "A mi nadie me mangonea"
@@ -42,7 +51,7 @@ Objetivo a largo plazo:
 Prestigio: 0
 Objetos clave:
 
-| Cabecera 1 | Cabecera 2 |
+| Estadistica | Valor |
 | ---|---|
 |SVM |30 + Fortaleza + Firewill |
 |SV| |
