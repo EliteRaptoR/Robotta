@@ -11,10 +11,11 @@
             "id": "4e320cf1c26d73f2",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Vientos de Guerra/Diario/1. El despertar en el bosque.md",
-                "staged": false
+                "file": "PC/Destello del atardecer.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PC/Destello del atardecer.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PC/Destello del atardecer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PC/Destello del atardecer.md"
+              }
             }
           },
           {
@@ -129,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "PC/Destello del atardecer.md"
+              }
             }
           },
           {
@@ -159,22 +166,22 @@
   },
   "active": "4e320cf1c26d73f2",
   "lastOpenFiles": [
+    "PC/Zafiro.md",
+    "PC/BayoneTTa.md",
+    "PC/Speedy.md",
+    "PC/LadyPC.md",
+    "PC/Destello del atardecer.md",
+    "Vientos de Guerra/Flashbacks/B. Despertar de Destello del atardecer.md",
+    "Vientos de Guerra/Diario/2. La llegada a Bhatsax-4.md",
     "Sesiones/Sesión 1.md",
     "Vientos de Guerra/Diario/1. El despertar en el bosque (Sesión 1).md",
-    "Vientos de Guerra/Diario/2. La llegada a Bhatsax-4.md",
     "Untitled.md",
     "Vientos de Guerra/Guion/1. Intro.md",
     "Vientos de Guerra/Guion/2. El Despertar.md",
     "Vientos de Guerra/Flashbacks/A. El rescate de Speedy.md",
-    "Vientos de Guerra/Flashbacks/B. Despertar de Destello del atardecer.md",
     "Vientos de Guerra/Flashbacks/C. El descubrimiento del Rey humano.md",
     "Vientos de Guerra/Localizaciones/Espina SAX.md",
-    "PC/LadyPC.md",
-    "PC/Destello del atardecer.md",
-    "PC/BayoneTTa.md",
     "PC/Nave de los PC.md",
-    "PC/Speedy.md",
-    "PC/Zafiro.md",
     "Vientos de Guerra/Guion/6. Trabajito de Jilio.md",
     "Vientos de Guerra/Guion/7. La traición de TAAL.md",
     "Vientos de Guerra/Guion/8. El encuentro con los Simbiontes.md",

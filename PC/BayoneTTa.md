@@ -1,7 +1,6 @@
 #PC 
 
 Personaje de Fabiola
-Efectos de estado: Nada
 Diseño: [[Tecnomante]]
 
 Lazos con compañeros:

@@ -1,7 +1,7 @@
 #PC 
+***Los rasgos de caracter estan mal colocados en la hoja***
 
 Personaje de Araceli
-Efectos de estado: Nada
 Diseño: [[Big Mama]]
 
 Lazos con compañeros:

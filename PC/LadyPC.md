@@ -1,7 +1,6 @@
 #PC 
 
 Personaje de Lady
-Efectos de estado: Nada
 Diseño:
 
 Lazos con compañeros:

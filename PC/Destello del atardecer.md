@@ -1,7 +1,6 @@
 #PC 
 
 Personaje de Oscar
-Efectos de estado: Nada
 Diseño: [[Soldado]]
 
 Lazos con compañeros:

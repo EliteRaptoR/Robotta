@@ -2,9 +2,7 @@
 
 ***Los rasgos de caracter estan mal colocados en la hoja***
 
-
 Personaje de Josep
-Efectos de estado: Nada
 Diseño: [[Oxnia]]
 
 Lazos con compañeros:
