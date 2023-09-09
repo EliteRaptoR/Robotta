@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "84e96ba5f934ca96",
+        "id": "48efe519fc10f8c6",
         "type": "tabs",
         "children": [
           {
-            "id": "c5286610bdb5fd09",
+            "id": "b53e975c12ba138f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "image",
               "state": {
-                "file": "PC/BayoneTTa.md",
-                "staged": false
+                "file": "Imagenes/Naves/Nave 6.png"
+              }
+            }
+          },
+          {
+            "id": "ecd2296d1e9660a2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Imagenes/Naves/Nave 6.png"
+              }
+            }
+          },
+          {
+            "id": "a3f2f9b4cc137d4f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Imagenes/NPC4.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Imagenes/NPC4.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Imagenes/NPC4.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Imagenes/NPC4.png"
+              }
             }
           },
           {
@@ -129,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Imagenes/NPC4.png"
+              }
             }
           },
           {
@@ -157,24 +183,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5286610bdb5fd09",
+  "active": "a3f2f9b4cc137d4f",
   "lastOpenFiles": [
+    "Imagenes/Robotillo.png",
+    "Imagenes/NPC3.png",
+    "Imagenes/NPC2.png",
+    "Imagenes/NPC4.png",
+    "Imagenes/Robot Burbuja.png",
+    "Imagenes/Robot Rodador.png",
+    "Imagenes/Estructura.png",
+    "Imagenes/Hongos.png",
+    "Imagenes/Ciudad Elder.png",
+    "Imagenes/Torreta.png",
+    "Imagenes/Robot espada.png",
+    "Imagenes/Vehiculos",
+    "Imagenes/Naves",
+    "Imagenes/SinNombrar",
+    "Imagenes/CE",
+    "Imagenes/Flujo",
+    "PC/Nave de los PC.md",
+    "Vientos de Guerra/Diario/1. El despertar en el bosque (Sesión 1).md",
+    "Vientos de Guerra/Diario/2. La llegada a Bhatsax-4.md",
     "PC/Zafiro.md",
     "PC/Shadow King.md",
     "PC/Speedy.md",
-    "Imagenes/VehiculoPatas.png",
-    "Imagenes/Naves circulares.png",
-    "Imagenes/NaveRoja.png",
-    "Imagenes/MechaGrande3.png",
-    "Imagenes/MechaGrande2.png",
-    "Imagenes/MechaGrande.png",
-    "Imagenes/00038-4232597657.png",
-    "Imagenes/00037-836493077.png",
-    "Imagenes/00035-4248044460.png",
-    "Vientos de Guerra/Documentos/Robot Araña Zafiro.png",
     "PC/BayoneTTa.md",
     "PC/Destello del atardecer.md",
-    "Vientos de Guerra/Diario/1. El despertar en el bosque (Sesión 1).md",
     "NPC/TAAL_Clasificado.md",
     "Vientos de Guerra/Guion/3. Inicio del camino.md",
     "NPC/Zeke.md",
@@ -182,7 +216,6 @@
     "NPC/Ur.md",
     "NPC/Hyjer.md",
     "Vientos de Guerra/Flashbacks/B. Despertar de Destello del atardecer.md",
-    "Vientos de Guerra/Diario/2. La llegada a Bhatsax-4.md",
     "Sesiones/Sesión 1.md",
     "Untitled.md",
     "Vientos de Guerra/Guion/1. Intro.md",
@@ -190,7 +223,6 @@
     "Vientos de Guerra/Flashbacks/A. El rescate de Speedy.md",
     "Vientos de Guerra/Flashbacks/C. El descubrimiento del Rey humano.md",
     "Vientos de Guerra/Localizaciones/Espina SAX.md",
-    "PC/Nave de los PC.md",
     "Vientos de Guerra/Guion/6. Trabajito de Jilio.md",
     "Vientos de Guerra/Guion/7. La traición de TAAL.md",
     "Vientos de Guerra/Guion/8. El encuentro con los Simbiontes.md",
@@ -199,11 +231,6 @@
     "Vientos de Guerra/NotasJugadores",
     "Sesiones",
     "Vientos de Guerra/Flashbacks",
-    "Vientos de Guerra/Diario",
-    "Conceptos Generales/Diseños",
-    "Normas",
-    "desktop.ini",
-    "Vientos de Guerra/Guion",
     "Untitled.canvas"
   ]
 }

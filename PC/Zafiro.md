@@ -79,3 +79,6 @@ Prestigio: 0
 Habilidades especiales:
 - Como acción médica puede entregar hasta 10 de sus puntos de SV a otro robotta. 
 - Puede cargar a otro robotta el ritmo de 1 CE al turno si esta a menos de 1 metro. Esto le cuesta 2 CE. 
+
+
+![[Robot Araña Zafiro.png]]
