@@ -1,5 +1,5 @@
 #NPC 
-[[Jilio_Clasificado]]
+[[JILlo_Clasificado]]
 Es miembro del selecto grupo de los [[Arcontes de Tylys]]. 
 Cuando quiere algo, lucha hasta conseguirlo. Viste de forma opulenta y va bien armado.
 
