@@ -12,5 +12,5 @@ Habitación de [[Speedy]]:
 Habitación de [[Destello del atardecer]]:
 
 
-Habitación de [[LadyPC]]:
+Habitación de [[Shadow King]]:
 

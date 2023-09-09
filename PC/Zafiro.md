@@ -1,5 +1,9 @@
 #PC 
-***Los rasgos de caracter estan mal colocados en la hoja***
+***Los rasgos de carácter están mal colocados en la hoja***
+***Explicar las habilidades especiales***
+***Cohetes exo, podrían ser cañones de protones***
+***Explicar su armadura***
+***Falta su arma***
 
 Personaje de Araceli
 Diseño: [[Big Mama]]
@@ -14,15 +18,14 @@ Info relevante:
 - Exo lanza-cohetes en el nombro.
 
 | | Rasgo| 
-| ---| ---|
+|:---:|:---:|
 | D | |
 | M | Pragmático |
 | M | Cauto |
 | I | |
 
-
 | | Profesión | Modificador | 
-| ---|---| ---|
+|:---:|:---:|:---:|
 |D|Mecánico |3|
 |D|Abogado |2|
 |M||2|
@@ -43,10 +46,9 @@ Objetivo a corto plazo:
 Objetivo a largo plazo:
 
 Prestigio: 0
-Objetos clave:
 
 | Estadistica | Valor |
-| ---|---|
+|:---:|:---:|
 |SVM |30 + Fortaleza + Firewill |
 |SV| |
 |CEM| 100|
@@ -61,3 +63,19 @@ Objetos clave:
 |DEF|| 
 |EXO||
 |Maniobra|| 
+
+|Armas| Ventajas | Desventajas | Daño | Tipo | Alcance |
+|:---:|:---:|:---:|:---:| :---:| :---:|
+|Sin arma| +2 Maniobra |  |  | Cinético | - |
+
+|Armadura| Absorción | Penalización |
+|:---:|:---:|:---:|
+| Láminas de acero pesada | 5 | -2 Maniobra. </br> -2 Ataque directo.|
+
+|Exoimplante| Descripción | Consumo de energia |
+|:---:|:---:|:---:|
+| Salva de Cohetes | -4 Ataque distancia. </br> +10 Daño Explosión. </br> Alcance 100/300m | 3/t |
+
+Habilidades especiales:
+- Como acción médica puede entregar hasta 10 de sus puntos de SV a otro robotta. 
+- Puede cargar a otro robotta el ritmo de 1 CE al turno si esta a menos de 1 metro. Esto le cuesta 2 CE. 

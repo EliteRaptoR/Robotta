@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "29d55fb98dfd7b18",
+        "id": "84e96ba5f934ca96",
         "type": "tabs",
         "children": [
           {
-            "id": "4e320cf1c26d73f2",
+            "id": "c5286610bdb5fd09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Vientos de Guerra/Diario/1. El despertar en el bosque (Sesión 1).md",
-                "mode": "source",
-                "source": false
+                "file": "PC/BayoneTTa.md",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vientos de Guerra/Diario/1. El despertar en el bosque (Sesión 1).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vientos de Guerra/Diario/1. El despertar en el bosque (Sesión 1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vientos de Guerra/Diario/1. El despertar en el bosque (Sesión 1).md"
-              }
+              "state": {}
             }
           },
           {
@@ -134,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Vientos de Guerra/Diario/1. El despertar en el bosque (Sesión 1).md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,23 +157,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e320cf1c26d73f2",
+  "active": "c5286610bdb5fd09",
   "lastOpenFiles": [
+    "PC/Zafiro.md",
+    "PC/Shadow King.md",
+    "PC/Speedy.md",
+    "Imagenes/VehiculoPatas.png",
+    "Imagenes/Naves circulares.png",
+    "Imagenes/NaveRoja.png",
+    "Imagenes/MechaGrande3.png",
+    "Imagenes/MechaGrande2.png",
+    "Imagenes/MechaGrande.png",
+    "Imagenes/00038-4232597657.png",
+    "Imagenes/00037-836493077.png",
+    "Imagenes/00035-4248044460.png",
+    "Vientos de Guerra/Documentos/Robot Araña Zafiro.png",
+    "PC/BayoneTTa.md",
+    "PC/Destello del atardecer.md",
+    "Vientos de Guerra/Diario/1. El despertar en el bosque (Sesión 1).md",
     "NPC/TAAL_Clasificado.md",
     "Vientos de Guerra/Guion/3. Inicio del camino.md",
     "NPC/Zeke.md",
     "Vientos de Guerra/Vientos de Guerra (Indice).md",
     "NPC/Ur.md",
     "NPC/Hyjer.md",
-    "PC/Destello del atardecer.md",
-    "PC/Zafiro.md",
-    "PC/BayoneTTa.md",
-    "PC/Speedy.md",
-    "PC/LadyPC.md",
     "Vientos de Guerra/Flashbacks/B. Despertar de Destello del atardecer.md",
     "Vientos de Guerra/Diario/2. La llegada a Bhatsax-4.md",
     "Sesiones/Sesión 1.md",
-    "Vientos de Guerra/Diario/1. El despertar en el bosque (Sesión 1).md",
     "Untitled.md",
     "Vientos de Guerra/Guion/1. Intro.md",
     "Vientos de Guerra/Guion/2. El Despertar.md",
@@ -191,21 +194,10 @@
     "Vientos de Guerra/Guion/6. Trabajito de Jilio.md",
     "Vientos de Guerra/Guion/7. La traición de TAAL.md",
     "Vientos de Guerra/Guion/8. El encuentro con los Simbiontes.md",
-    "Vientos de Guerra/Localizaciones/Salar de Tylys.md",
     "Vientos de Guerra/Facciones",
-    "Vientos de Guerra/Documentos/Hongos.jpg",
     "Vientos de Guerra/Localizaciones",
-    "Imagenes/Hongos.png",
-    "Imagenes/Hongos 1.png",
-    "Imagenes/Ciudad Elder.png",
-    "Imagenes/Arca Piramide.png",
-    "Imagenes/xeno1.png",
-    "Imagenes/xeno2.png",
     "Vientos de Guerra/NotasJugadores",
     "Sesiones",
-    "Imagenes/Estructura.png",
-    "Imagenes/Robotillo.png",
-    "Imagenes/Robot Burbuja.png",
     "Vientos de Guerra/Flashbacks",
     "Vientos de Guerra/Diario",
     "Conceptos Generales/Diseños",

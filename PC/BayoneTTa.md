@@ -1,5 +1,11 @@
 #PC 
 
+***Explicar su Exo***
+***Explicar su arma***
+***Explicar su armadura***
+***Explicar sus habilidades***
+
+
 Personaje de Fabiola
 Diseño: [[Tecnomante]]
 
@@ -22,7 +28,7 @@ Info relevante:
 
 
 | | Rasgo| 
-| ---| ---|
+| :---:| :---:|
 | D |  |
 | M | Curioso |
 | M | Sacrificado |
@@ -30,7 +36,7 @@ Info relevante:
 
 
 | | Profesión | Modificador | 
-| ---|---| ---|
+| :---:|:---:| :---:|
 |D|Hacker |3|
 |D|Lingüista |2|
 |M||2|
@@ -56,7 +62,7 @@ Prestigio: 0
 Objetos clave:
 
 | Estadistica | Valor |
-| ---|---|
+| :---:|:---:|
 |SVM |30 + Fortaleza + Firewill |
 |SV| |
 |CEM| 50|
@@ -73,5 +79,18 @@ Objetos clave:
 |Maniobra|| 
 
 
+|Armas| Ventajas | Desventajas | Daño | Tipo | Alcance |
+|:---:|:---:|:---:|:---:| :---:|:---:|
+|Bayonetta| +2 Maniobra. <br /> Es retráctil, no en necesario empuñarla, va sujeta al antebrazo.| | +2 | - |
+|Sin arma| +2 Maniobra |  |  | Cinético | - |
 
+|Armadura| Absorción | Penalización |
+|:---:|:---:|:---:|
+|Táctica ligera| 3 | -1 Maniobra |
 
+|Exoimplante| Descripción | Consumo de energia |
+|:---:|:---:|:---:|
+|Flujo| Permite que el robotta entre en el Gran Flujo y tenga visiones y sueños aleatorios | 3/día |
+
+Habilidades:
+- Puede cambiar 5 puntos de SV por 1 punto Isak tres veces por partida.

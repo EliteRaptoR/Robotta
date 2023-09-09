@@ -1,5 +1,10 @@
 #PC 
 
+***Propuesta, el rifle cinético es su arma de brazo.***
+***Explicar las habilidades especiales***
+***Explicar su arma***
+***Explicar su armadura***
+
 Personaje de Oscar
 Diseño: [[Soldado]]
 
@@ -13,7 +18,7 @@ Info relevante:
 - Rail Gauss, Fusil cinético
 
 | | Rasgo| 
-| ---| ---|
+| :---:| :---:|
 | D | Sacrificado |
 | M | Solemne |
 | M | Precavido |
@@ -21,7 +26,7 @@ Info relevante:
 
 
 | | Profesión | Modificador | 
-| ---|---| ---|
+| :---:|:---:| :---:|
 |D|Tirador |3|
 |D|Herrero |2|
 |M||2|
@@ -45,7 +50,7 @@ Prestigio: 0
 Objetos clave:
 
 | Estadistica | Valor |
-| ---|---|
+| :---:|:---:|
 |SVM |30 + Fortaleza + Firewill |
 |SV| |
 |CEM| 60|
@@ -62,3 +67,19 @@ Objetos clave:
 |Maniobra|| 
 
 
+|Armas| Ventajas | Desventajas | Daño | Tipo | Alcance |
+|:---:|:---:|:---:|:---:| :---:| :---:|
+|Rifle gauss| +3 a Ataque a distancia | -1 Defensa | +4 | Cinético | 350/2000 |
+|Sin arma| +2 Maniobra |  |  | Cinético | - |
+
+|Armadura| Absorción | Penalización |
+|:---:|:---:|:---:|
+| Láminas de acero pesada | 5 | -2 Maniobra. </br> -2 Ataque directo.|
+
+|Exoimplante| Descripción | Consumo de energia |
+|:---:|:---:|:---:|
+|  |  | |
+
+Habilidades especiales:
+- Uno de sus brazos es un arma doble. Este arma no se puede soltar y solo puede ser cambiada por un mecánico en un proceso costoso y que puede llevar varias horas.
+- Puede hacer 3 ataques con ventaja en cada enfrentamiento.

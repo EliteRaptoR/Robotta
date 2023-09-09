@@ -1,6 +1,9 @@
 #PC 
 
-***Los rasgos de caracter estan mal colocados en la hoja***
+***Los rasgos de carácter están mal colocados en la hoja***
+***Explicar las habilidades especiales***
+***Explicar su arma***
+***Explicar su Exo***
 
 Personaje de Josep
 Diseño: [[Oxnia]]
@@ -65,3 +68,21 @@ Objetos clave:
 |DEF|| 
 |EXO||
 |Maniobra|| 
+
+
+|Armas| Ventajas | Desventajas | Daño | Tipo | Alcance |
+|:---:|:---:|:---:|:---:| :---:|:---:|
+|Espada eléctrica| +2 Maniobra. </br> Consumiendo 1 CE, si el ataque impacta el objetivo pasa a estar en posición empeorada. </br> Es retráctil.| Esta estropeada, no funciona la electricidad. | +2 | Cinético | - |
+|Sin arma| +2 Maniobra |  |  | Cinético | - |
+
+|Armadura| Absorción | Penalización |
+|:---:|:---:|:---:|
+| | |  |
+
+|Exoimplante| Descripción | Consumo de energia |
+|:---:|:---:|:---:|
+| Silenciar sensor | Hace que el robotta sea indetectable por dos sensores en concreto | 1/hora |
+
+Habilidades especiales:
+- Cambios estéticos completos y posibilidad de imitar cualquier voz y frecuencia robotta para hacerse pasar por quien quiera.
+- Si en la tirada de muerte saca 11 o más, el oxnia se dirige a el espacio secreto del Gran Flujo.
