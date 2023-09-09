@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 305423
       }
+    },
+    {
+      "query": "tag:#normas  ",
+      "color": {
+        "a": 1,
+        "rgb": 4671303
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6346285676930631,
+  "scale": 0.6346285676930646,
   "close": false
 }
