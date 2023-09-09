@@ -5,7 +5,7 @@ Efectos de estado: Nada
 Diseño: [[Tecnomante]]
 
 Lazos con compañeros:
-- Despertó a [[Destello del atardecer]] en una macrofactoria. [[B. Despertar de Destello]]
+- Despertó a [[Destello del atardecer]] en una macrofactoria. [[B. Despertar de Destello del atardecer]]
 
 Info relevante:
 - Tiene 3 ojos. 
@@ -51,8 +51,8 @@ Objetos clave:
 
 SVM: 30 + Fortaleza + Firewill 
 SV:
-CEM: 10 + Cálculo + Destreza
-CE: 
+CEM: 50
+CE: 10
 Calculo: 
 Destreza: 
 Fortaleza: 

@@ -4,52 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0a17b196404fc2dc",
+        "id": "29d55fb98dfd7b18",
         "type": "tabs",
         "children": [
           {
-            "id": "eedc2c01108e6ee8",
+            "id": "4e320cf1c26d73f2",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "NPC/Jilio.md",
+                "file": "Vientos de Guerra/Diario/1. El despertar en el bosque.md",
                 "staged": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "d7071366316dd7f1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3fc8923836f0e84a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vientos de Guerra/Localizaciones/La Colmena.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3ec8d2c80076f34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vientos de Guerra/Localizaciones/Espina SAX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,9 +157,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eedc2c01108e6ee8",
+  "active": "4e320cf1c26d73f2",
   "lastOpenFiles": [
+    "Sesiones/Sesión 1.md",
+    "Vientos de Guerra/Diario/1. El despertar en el bosque (Sesión 1).md",
+    "Vientos de Guerra/Diario/2. La llegada a Bhatsax-4.md",
+    "Untitled.md",
+    "Vientos de Guerra/Guion/1. Intro.md",
+    "Vientos de Guerra/Guion/2. El Despertar.md",
+    "Vientos de Guerra/Flashbacks/A. El rescate de Speedy.md",
+    "Vientos de Guerra/Flashbacks/B. Despertar de Destello del atardecer.md",
+    "Vientos de Guerra/Flashbacks/C. El descubrimiento del Rey humano.md",
+    "Vientos de Guerra/Localizaciones/Espina SAX.md",
+    "PC/LadyPC.md",
+    "PC/Destello del atardecer.md",
     "PC/BayoneTTa.md",
+    "PC/Nave de los PC.md",
+    "PC/Speedy.md",
+    "PC/Zafiro.md",
     "Vientos de Guerra/Guion/6. Trabajito de Jilio.md",
     "Vientos de Guerra/Guion/7. La traición de TAAL.md",
     "Vientos de Guerra/Guion/8. El encuentro con los Simbiontes.md",
@@ -201,27 +185,12 @@
     "Vientos de Guerra/Localizaciones/La Colmena.md",
     "Vientos de Guerra/Facciones/Simbiontes.md",
     "JILlo.md",
-    "Vientos de Guerra/Guion/5. Encontrar a TR-TR.md",
-    "NPC/TR-TR.md",
-    "Vientos de Guerra/Guion/4. Audiencia con TAAL.md",
-    "Vientos de Guerra/Guion/3. Inicio del camino.md",
-    "Vientos de Guerra/Localizaciones/El gran Bazar.md",
-    "Vientos de Guerra/Localizaciones/Espina SAX.md",
-    "Vientos de Guerra/Localizaciones/Palacio de TAAL.md",
-    "Vientos de Guerra/NotasJugadores/Notas de Fabiola.md",
-    "Vientos de Guerra/NotasJugadores/Notas Lady.md",
-    "Vientos de Guerra/Facciones/Arcontes de Tylys.md",
     "Vientos de Guerra/Facciones",
     "Vientos de Guerra/Documentos/Hongos.jpg",
     "Vientos de Guerra/Localizaciones",
-    "Vientos de Guerra/Diario/1. El despertar en el bosque.md",
     "Imagenes/Hongos.png",
     "Imagenes/Hongos 1.png",
     "Imagenes/Ciudad Elder.png",
-    "Vientos de Guerra/Guion/La visita al rastrillo.md",
-    "PC/Destello del atardecer.md",
-    "Facciones/Warkan.md",
-    "Facciones/Élders.md",
     "Imagenes/Arca Piramide.png",
     "Imagenes/xeno1.png",
     "Imagenes/xeno2.png",

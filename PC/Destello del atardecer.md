@@ -5,7 +5,7 @@ Efectos de estado: Nada
 Diseño: [[Soldado]]
 
 Lazos con compañeros:
-- Fue despertado por [[BayoneTTa]] en una macro factoría. [[B. Despertar de Destello]]
+- Fue despertado por [[BayoneTTa]] en una macro factoría. [[B. Despertar de Destello del atardecer]]
 
 Info relevante:
 - Armadura brillante, chasis al estilo Gundam
@@ -40,6 +40,10 @@ Objetivo a largo plazo:
 Prestigio: 0
 Objetos clave:
 
+SVM: 30 + Fortaleza + Firewill 
+SV:
+CEM: 60
+CE: 10
 Calculo: 
 Destreza: 
 Fortaleza: 

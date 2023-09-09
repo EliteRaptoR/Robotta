@@ -38,6 +38,10 @@ Objetivo a largo plazo:
 Prestigio: 0
 Objetos clave:
 
+SVM: 30 + Fortaleza + Firewill 
+SV:
+CEM: 70
+CE: 10
 Calculo: 
 Destreza: 
 Fortaleza: 
