@@ -94,3 +94,5 @@ Objetos clave:
 
 Habilidades:
 - Puede cambiar 5 puntos de SV por 1 punto Isak tres veces por partida.
+
+![[ExoFlujo.png]]
