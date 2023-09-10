@@ -31,9 +31,10 @@
             "id": "a3f2f9b4cc137d4f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "diff-view",
               "state": {
-                "file": "Imagenes/NPC4.png"
+                "file": "Vientos de Guerra/Diario/1. El despertar en el bosque (Sesión 1).md",
+                "staged": false
               }
             }
           }
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imagenes/NPC4.png",
+                "file": "Imagenes/Naves/Nave 6.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imagenes/NPC4.png",
+                "file": "Imagenes/Naves/Nave 6.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imagenes/NPC4.png"
+                "file": "Imagenes/Naves/Nave 6.png"
               }
             }
           },
@@ -154,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Imagenes/NPC4.png"
+                "file": "Imagenes/Naves/Nave 6.png"
               }
             }
           },
@@ -185,10 +186,10 @@
   },
   "active": "a3f2f9b4cc137d4f",
   "lastOpenFiles": [
+    "Imagenes/NPC4.png",
     "Imagenes/Robotillo.png",
     "Imagenes/NPC3.png",
     "Imagenes/NPC2.png",
-    "Imagenes/NPC4.png",
     "Imagenes/Robot Burbuja.png",
     "Imagenes/Robot Rodador.png",
     "Imagenes/Estructura.png",
