@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "48efe519fc10f8c6",
+        "id": "b97a5881935868fd",
         "type": "tabs",
         "children": [
           {
-            "id": "b53e975c12ba138f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Imagenes/Naves/Nave 6.png"
-              }
-            }
-          },
-          {
-            "id": "ecd2296d1e9660a2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Imagenes/Naves/Nave 6.png"
-              }
-            }
-          },
-          {
-            "id": "a3f2f9b4cc137d4f",
+            "id": "021851911182fecc",
             "type": "leaf",
             "state": {
               "type": "diff-view",
@@ -38,8 +18,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,21 +149,39 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "a3f2f9b4cc137d4f",
+  "active": "021851911182fecc",
   "lastOpenFiles": [
-    "PC/BayoneTTa.md",
-    "PC/Nave de los PC.md",
-    "PC/Destello del atardecer.md",
     "PC/Speedy.md",
     "PC/Shadow King.md",
+    "PC/Destello del atardecer.md",
+    "PC/Zafiro.md",
+    "PC/BayoneTTa.md",
+    "Vientos de Guerra/Guion/5. Encontrar a TR-TR.md",
+    "Vientos de Guerra/Guion/7. La traición de TAAL.md",
+    "PC/Nave de los PC.md",
+    "Vientos de Guerra/Flashbacks/Sin título.md",
+    "Vientos de Guerra/Flashbacks/D. El despertar de Shadow King.md",
+    "Vientos de Guerra/Flashbacks/B. Despertar de Destello del atardecer.md",
+    "NPC/TR-TR.md",
+    "Vientos de Guerra/Guion/4. Audiencia con TAAL.md",
+    "Imagenes/Ciudad Elder.png",
+    "Vientos de Guerra/Guion/3. Inicio del camino.md",
+    "Imagenes/Naves/Nave 6.png",
+    "Vientos de Guerra/Flashbacks/Sin título",
+    "Vientos de Guerra/Guion/2. El Despertar.md",
+    "Vientos de Guerra/Flashbacks/C. El descubrimiento del Rey humano.md",
+    "Vientos de Guerra/Flashbacks/A. El rescate de Speedy.md",
+    "Vientos de Guerra/Diario/2. La llegada a Bhatsax-4.md",
+    "Vientos de Guerra/Diario/1. El despertar en el bosque (Sesión 1).md",
+    "NPC/JILlo.md",
     "Imagenes/Vehiculos/VehiculoPatas.png",
     "Imagenes/Vehiculos/Tanqueta y Zepeling.png",
     "Imagenes/CE/CE8.png",
@@ -193,38 +190,21 @@
     "Normas/Tiradas.md",
     "Vientos de Guerra/Documentos/ExoFlujo.png",
     "Vientos de Guerra/Documentos/Robot Araña Zafiro.png",
-    "Vientos de Guerra/Diario/2. La llegada a Bhatsax-4.md",
     "Imagenes/NPC4.png",
-    "Imagenes/Robotillo.png",
-    "Imagenes/NPC3.png",
     "Imagenes/Vehiculos",
     "Imagenes/Naves",
     "Imagenes/SinNombrar",
     "Imagenes/CE",
     "Imagenes/Flujo",
-    "Vientos de Guerra/Diario/1. El despertar en el bosque (Sesión 1).md",
-    "PC/Zafiro.md",
     "NPC/TAAL_Clasificado.md",
-    "Vientos de Guerra/Guion/3. Inicio del camino.md",
     "NPC/Zeke.md",
     "Vientos de Guerra/Vientos de Guerra (Indice).md",
     "NPC/Ur.md",
     "NPC/Hyjer.md",
-    "Vientos de Guerra/Flashbacks/B. Despertar de Destello del atardecer.md",
-    "Sesiones/Sesión 1.md",
-    "Untitled.md",
-    "Vientos de Guerra/Guion/1. Intro.md",
-    "Vientos de Guerra/Guion/2. El Despertar.md",
-    "Vientos de Guerra/Flashbacks/A. El rescate de Speedy.md",
-    "Vientos de Guerra/Flashbacks/C. El descubrimiento del Rey humano.md",
-    "Vientos de Guerra/Localizaciones/Espina SAX.md",
-    "Vientos de Guerra/Guion/6. Trabajito de Jilio.md",
-    "Vientos de Guerra/Guion/7. La traición de TAAL.md",
     "Vientos de Guerra/Facciones",
     "Vientos de Guerra/Localizaciones",
     "Vientos de Guerra/NotasJugadores",
     "Sesiones",
-    "Vientos de Guerra/Flashbacks",
     "Untitled.canvas"
   ]
 }
